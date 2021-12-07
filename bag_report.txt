@@ -1,12 +1,12 @@
 Envoriment Win 10 
 Build 1.00
 Id C014
-Title Error 404 on main page
-Actual result Cant find page
-Expected result Page opens
-Workaround No
-Reproducibility Always
-Severinity S1
-Priority Hight
-Attachment Picture
-Status New
+Title: Error 404 on main page
+Actual result: Cant find page
+Expected result: Page opens
+Workaround: No
+Reproducibility: Always
+Severinity: S1
+Priority: Hight
+Attachment: Picture
+Status: New
