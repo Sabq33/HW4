@@ -83,7 +83,8 @@ insert into employees(employee_name)
 	        ('Terry'),
 	        ('Corey');
 
-delete from employees where employee_name = 'Jhon';	  
+
+
 
 -- 4.Таблица salary
 
@@ -201,6 +202,8 @@ alter column role_name type varchar(30);
               ('Junior_Automation_QA_engineer'),
               ('Middle_Automation_QA_engineer'),
               ('Senior_Automation_QA_engineer');
+             
+             
 
 -- 15.Таблица roles_employee
 
@@ -258,4 +261,4 @@ insert into roles_employee(employee_id, role_id)
 	       (37,19),
 	       (38,20),
 	       (39,1),
-	       (40,1);			
+	       (40,1);		
